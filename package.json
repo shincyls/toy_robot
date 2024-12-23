@@ -1,0 +1,26 @@
+{
+  "name": "toyrobot",
+  "version": "1.0.0",
+  "description": "A fun toy robot simulator",
+  "main": "main.js",
+  "type": "module",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "node ./tests/test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shincyls/toy_robot.git"
+  },
+  "keywords": [
+    "toy_robot"
+  ],
+  "author": "shincy",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shincyls/toy_robot/issues"
+  },
+  "homepage": "https://github.com/shincyls/toy_robot#readme"
+}
