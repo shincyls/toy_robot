@@ -99,17 +99,8 @@ REPORT
 - `tests/test.js`: Contains basic tests for verifying the program's behavior.
 - `tests/commands.txt`: Example command file for testing.
 
-## Concerns For Future Expandsion
+## Concerns For Future Development
 
 - Add support for multiple robots.
 - Each robot have stats HP/ATK/DEF which trigger battle on crash
 
-## License
-
-This project is licensed under the MIT License. See the `LICENSE` file for details.
-
----
-
-### Author
-
-Developed by Shincy. Contributions are welcome!
